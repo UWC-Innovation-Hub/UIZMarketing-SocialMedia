@@ -1,6 +1,6 @@
 ---
 name: Website Task
-about: Use this template for development, editing, and integration of content
+about: Use this template for development, editing and integration of content
 title: "[WEBSITE] - Developing, editing and integration of content"
 labels: Website Editing
 assignees: AyeshaBoomgaard, KaylynFritz
