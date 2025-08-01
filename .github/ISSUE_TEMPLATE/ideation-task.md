@@ -3,7 +3,32 @@ name: Ideation Task
 about: Use this template for conceptual development and creative direction planning
 title: "[IDEATION] - Conceptual development and creative direction planning"
 labels: Preproduction Phase
-assignees: AyeshaBoomgaard, KaylynFritz
+assignees: KaylynFritz
 ---
 
-Describe the task at hand and use as many relevant material as possible including image, docx, excel sheets or links. Links can just be pasted as URL and use the preview feature before posting the issue. Tag label, priority, size and milestone including which sprint this needs to be completed.
+**Summary**
+Briefly describe the idea
+
+**Objective**
+What is the goal (e.g. increase engagement, product awareness, lead generation)?
+
+**Target Platform**
+- [ ] Outreach
+- [ ] Events
+- [ ] Social media
+
+**Key Messege**
+What is the central messege?
+
+**Creative Requirements**
+- [ ] Graphic design
+- [ ] Copywriting
+- [ ] Video editing
+- [ ] Hashtag strategy
+
+**Timeline**
+Suggested start and end date
+
+
+**Additional Notes**
+Any references or ideas to draw from?
