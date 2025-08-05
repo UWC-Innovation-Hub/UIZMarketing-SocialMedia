@@ -14,7 +14,7 @@ assignees: KaylynFritz
 - [ ] TikTok
 - [ ] Other: ___
 
-**Platform**
+**Content Type**
 - [ ] Image
 - [ ] Video
 - [ ] Carousel

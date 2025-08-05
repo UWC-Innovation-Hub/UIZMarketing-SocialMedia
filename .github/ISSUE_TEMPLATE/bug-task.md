@@ -10,8 +10,8 @@ assignees: KaylynFritz, AyeshaBoomgaard
 Describe what is wrong? (e.g., broken link, typo, low-quality image)
 
 **Where**
-1. Paltform: 
-2. Link (if applicable):
+1. Platform: 
+2. Link (if applicable): 
 
 **Screenshots/Visual Evidence**
 If applicable, add screenshots to help explain your problem.
